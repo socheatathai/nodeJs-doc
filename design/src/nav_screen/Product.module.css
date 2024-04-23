@@ -1,0 +1,226 @@
+b{
+    font-size: 12px;
+    font-weight: bold;
+    color: black;
+}
+.Container{
+    text-align: center;
+ } 
+ .ProductIllutionForm{
+    display: flex;
+    float: left;
+    color: rgba(0, 0, 0, 0.632);
+ }
+ .showAnswer{
+    width: 900px;
+    height: 300px;
+    background-color:white;
+    display: flex;
+    margin-left: 140px;
+    border-radius:7px;
+    border: 1px red solid;
+    box-shadow: 2px 3px 2px rgba(0, 0, 0, 0.597);
+ }
+.formLeft{
+    width: 350px;
+    /* background-color: yellow; */
+    height: 100%;
+}
+.formRight{
+    padding: 10px 5px;
+    width: 100%;
+    /* background-color: gray; */
+    height: 100%;
+    overflow: hidden;
+}
+.rowFormLeft{
+    width: 100%;
+    /* background-color: darkcyan; */
+    height: 70px;
+    display: flex;
+}
+.labelOne{
+    display: flex;
+    color: rgba(0, 128, 0, 0.703);
+    margin-top: 35px;
+    margin-left: 100px;
+    font-size: 20px;
+    font-weight: bold;
+}
+.labelTwo{
+    display: flex;
+    color: rgba(0, 128, 0, 0.703);
+    margin-top: 35px;
+    margin-left: 100px;
+    font-size: 20px;
+    font-weight: bold;
+}
+.modalInput{
+    border-radius: 7px;
+    background-color: #f2f2f2 ;
+}
+ form{
+    margin: 10px;
+ }
+.productselect{
+    width: 500px;
+    padding: 5px;
+    display: flex;
+    border-radius: 10px;
+}
+.CapitalStaff{
+    margin-left: 10px;
+    width: 210px;
+    padding: 5px;
+    display: flex;
+    border-radius: 10px;
+}
+.poliInput{
+    padding: 5px;
+    display: flex;
+    width: 400px;
+    border-radius: 7px;
+}
+.insureinput{
+    padding: 5px;
+    display: flex;
+    width: 300px;
+    margin-left: 20px;
+    border-radius: 7px;
+}
+.dateInput{
+    display: flex;
+    margin-left: 20px;
+    width: 300px;
+    padding: 5px;
+    border-radius: 7px;
+}
+.sexSelect{
+    display: flex;
+    margin-left: 20px;
+    width: 300px;
+    padding: 5px;
+    border-radius: 7px;
+}
+.paymentSelect{
+    width: 720px;
+    padding: 5px;
+    display: flex;
+    border-radius: 10px;
+}
+.policyTermSelect{
+    width: 620px;
+    padding: 5px;
+    display: flex;
+    border-radius: 10px;
+    margin-left: 20px;
+}
+.SumSelect{
+    width: 720px;
+    padding: 5px;
+    display: flex;
+    border-radius: 10px;
+}
+.buttonEvaluate{
+    border: none;
+    background-color: rgba(0, 128, 0, 0.648);
+    border-radius: 10px;
+    margin-top: 10px;
+    float: right;
+    margin-right: 120px;
+    padding: 10px;
+}
+ul{
+    color: rgba(0, 0, 255, 0.703);
+    background-color: #f2f2f2;
+    display: flex;
+    float: left;
+    list-style-type: none;
+    padding: 0;
+    overflow: hidden;
+    height: 50px;
+    width: 100%;
+    padding: 10px;
+}
+li{
+    font-size: 20px;
+    margin-left: 10px;
+    font-weight: bold;
+}
+li:nth-child(3){
+    color: rgba(0, 0, 0, 0.668);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+/*
+ul{
+    background-color: #f2f2f2;
+    color: rgb(0, 106, 255);
+    display: flex;
+    float: left;
+    list-style-type: none;
+    padding: 0;
+    overflow: hidden;
+    height: 50px;
+    width: 100%;
+    padding: 10px;
+    border-radius: 10px;
+}
+li{
+    font-size: 20px;
+    margin-left: 10px;
+    font-weight: bold;
+}
+li:nth-child(3){
+    color: rgba(0, 0, 0, 0.795);
+}
+select{
+    padding: 5px;
+    margin-top: 10px;
+    display: flex;
+    float: left;
+    width:500px;
+    border-radius: 5px;
+    color: rgba(0, 0, 0, 0.64);
+    margin-left: 10px;
+}
+select:nth-child(3){
+    width: 250px;
+}
+label>b{
+    margin-left:10px;
+}
+input{
+    padding: 5px;
+    margin-left: 10px;
+    width: 500px;
+    margin-top: 5px;
+    border-radius: 8px;
+    color: rgba(0, 0, 0, 0.405);
+}
+input:nth-child(3){
+    width: 250px;
+}
+label>input{
+    width: 250px;
+}
+label>select{
+    width: 250px;
+} */
